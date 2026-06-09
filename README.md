@@ -1,9 +1,10 @@
-# Vitalwatch
-machine-learning  mlops  healthcare  fastapi  docker   python  streaming  ab-testing  real-time  scikit-learn   feature-store  devcontainers  logistic-regression
 # VitalWatch: Real-Time ICU Patient Deterioration Early Warning System
 
 > A production-style ML engineering project that detects patient deterioration earlier than traditional threshold-based monitors — using streaming feature computation, containerized remote development, and live A/B testing on real clinical metrics.
 
+
+
+> machine-learning  mlops  healthcare  fastapi  docker   python  streaming  ab-testing  real-time  scikit-learn   feature-store  devcontainers  logistic-regression
 ---
 
 ## The Problem
